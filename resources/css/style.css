@@ -1,0 +1,47 @@
+body{
+    border: 3px solid rgba(255, 60, 0, 0.698);
+    margin:45px;
+
+}
+.main_title{
+    background-image: url("../img/pattern.jpg");
+   font-family: Helvetica;
+   font-size: 100px;
+   font-weight: bold;
+   color: khaki;
+   text-align: center;
+ 
+   margin: 25px 5px;
+}
+span{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+.sub_title1,.sub_title2,.sub_title3{
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color:white;
+
+}
+.sub_title1{
+background-color: mediumspringgreen;
+margin: 15px 5px;
+
+}
+.sub_title2{
+    background-color:lightcoral ;
+    margin: 15px 5px;
+}
+.sub_title3{
+    background-color:skyblue ;
+    margin: 15px 5px;
+}
+.title{
+font-size:20px;
+font-weight: bold;
+}
+img{
+    margin:15px 0;
+}
